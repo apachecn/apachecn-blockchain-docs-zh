@@ -1,3 +1,3 @@
-# Web3.py Chinese documents
+# Web3.py 中文文档
 
-来源:[https://web3py.readthedocs.io/en/stable/index.html](https://web3py.readthedocs.io/en/stable/index.html)
+> 原文：<https://web3py.readthedocs.io/en/stable/index.html>
