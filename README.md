@@ -1,39 +1,5 @@
-<!--
-    需要填充的占位符：
-    
-    README.md
-    
-        ApacheCN 区块链中文文档集：文档中文名
-        {nameEn}：文档英文名
-        {urlEn}：文档原始链接
-        bcdoc：域名前缀
-        飞龙：负责人名称
-        飞龙：负责人 Github 用户名
-        飞龙：负责人 QQ
-        apachecn-blockchain-docs-zh：ApacheCN 的 Github 仓库名称
-        apachecn-blockchain-docs-zh：DockerHub 仓库名称
-        apachecn-blockchain-docs-zh：PYPI 包名称
-        apachecn-blockchain-docs-zh：NPM 包名称
-    
-    CNAME
-    
-        bcdoc：域名前缀
-
-    index.html
-    
-        ApacheCN 区块链中文文档集：文档中文名
-        {color}：显示颜色
-        apachecn-blockchain-docs-zh：ApacheCN 的 Github 仓库名称
-
-    asset/docsify-apachecn-footer.js
-    
-        apachecn-blockchain-docs-zh：ApacheCN 的 Github 仓库名称
--->
-
 # ApacheCN 区块链中文文档集
 
-> 原文：[{nameEn}]({urlEn})
-> 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
 > 阶段：机翻（1）
